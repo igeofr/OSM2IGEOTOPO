@@ -12,7 +12,7 @@ Utiliser la richesse des informations disponibles dans [OpenStreetMap](https://w
 
 ## Pourquoi cette idée ?
 
-Après la création  du projet [OSM2IGEO](https://github.com/igeofr/osm2igeo), j'ai constaté qu'il n'existait pas de carte topographique "libre" ormis le projet Web : [OpenTopoMap](https://opentopomap.org) mais qui ne répond pas à certains besoins de portabilité.
+Après la création  du projet [OSM2IGEO](https://github.com/igeofr/osm2igeo), j'ai constaté qu'il n'existait pas de carte topographique "libre" hormis le projet Web : [OpenTopoMap](https://opentopomap.org) mais qui ne répond pas à certains besoins de portabilité.
 
 En m'appuyant sur les données générées pour [OSM2IGEO](https://github.com/igeofr/osm2igeo), j'ai donc poursuivi mes travaux pour produire une chaine de traitement permettant de générer et de communiquer des données topographiques sous forme de tuiles de 10*10km.
 
